@@ -1,0 +1,44 @@
+\babel@toc {bahasa}{}\relax 
+\contentsline {chapter}{HALAMAN PENGESAHAN}{ii}{table.caption.1}%
+\contentsline {chapter}{BUKTI BEBAS PLAGIASI}{iii}{table.caption.2}%
+\contentsline {chapter}{{\uppercase {Daftar Isi}}}{iv}{section*.4}%
+\contentsline {chapter}{{\uppercase {Daftar Gambar}}}{vi}{section*.6}%
+\contentsline {chapter}{{\uppercase {Daftar Tabel}}}{vii}{section*.8}%
+\contentsline {chapter}{CATATAN REVISI DOKUMEN}{viii}{section*.8}%
+\contentsline {chapter}{INTISARI}{ix}{table.0.1}%
+\contentsline {chapter}{\numberline {BAB 1}\uppercase {Pengantar}}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Ujian Dokumen C-251}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Informasi Singkat Mengenai \textit {Template} Dokumen C-251}{1}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Susunan \textit {Directory}}{1}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Pengisian Data Mengenai Dokumen C-251}{2}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}Melampirkan Bukti Bebas Plagiasi}{3}{subsection.1.2.3}%
+\contentsline {subsection}{\numberline {1.2.4}Menuliskan Catatan Revisi Dokumen}{3}{subsection.1.2.4}%
+\contentsline {section}{\numberline {1.3}Contoh Penulisan Dokumen Menggunakan \LaTeX }{4}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Persamaan Matematis}{4}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Gambar dan Tabel}{5}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}Sitasi}{6}{subsection.1.3.3}%
+\contentsline {subsection}{\numberline {1.3.4}Algoritme}{6}{subsection.1.3.4}%
+\contentsline {chapter}{\numberline {BAB 2}\uppercase {Dasar Teori Pendukung}}{7}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Intepretasi Geometris dari \textit {Eigenvalues} dan \textit {Eigenvectors}}{7}{section.2.1}%
+\contentsline {chapter}{\numberline {BAB 3}\uppercase {Analisis Studi Pustaka Kunci}}{9}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Metode 1}{9}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Metode 2}{10}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Sub-Metode 2}{10}{subsection.3.2.1}%
+\contentsline {section}{\numberline {3.3}Metode 3}{11}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Sub-Metode 3A}{12}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Sub-Metode 3B}{12}{subsection.3.3.2}%
+\contentsline {chapter}{\numberline {BAB 4}\uppercase {Pemodelan Permasalahan}}{14}{chapter.4}%
+\contentsline {chapter}{\numberline {BAB 5}\uppercase {Pemilihan dan Pengembangan Metode}}{15}{chapter.5}%
+\contentsline {chapter}{\numberline {BAB 6}\uppercase {Luaran dan Spesifikasi yang Diusulkan}}{16}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Luaran yang Dijanjikan}{16}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Spesifikasi Luaran}{17}{section.6.2}%
+\contentsline {chapter}{\numberline {BAB 7}\uppercase {Batasan Permasalahan}}{18}{chapter.7}%
+\contentsline {chapter}{\numberline {BAB 8}\uppercase {Perancangan Umum Sistem}}{19}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Penyajian \textit {Flowchart}}{19}{section.8.1}%
+\contentsline {chapter}{\numberline {BAB 9}\uppercase {Rencana Anggaran dan Jadwal Kegiatan}}{21}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Rencana Anggaran Pelaksanaan \textit {Capstone}}{21}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Jadwal Pelaksanaan Kegiatan \textit {Capstone}}{22}{section.9.2}%
+\contentsline {chapter}{\numberline {BAB 10}\uppercase {Simulasi Pendahuluan}}{23}{chapter.10}%
+\contentsline {chapter}{\numberline {BAB 11}\uppercase {Kesimpulan}}{24}{chapter.11}%
+\contentsline {chapter}{REFERENSI}{25}{chapter*.12}%
+\contentsfinish 
